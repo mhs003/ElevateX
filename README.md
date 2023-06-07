@@ -31,7 +31,7 @@ Full documentation for ElevateX is hosted in [here](https://github.com/mhs003/El
 
 ## example
 
-Here are some example projects those are built using ElevateX framework:
+Here are some example projects which are built using ElevateX framework:
 
 - [ElevateX LoginSignup App](https://github.com/mhs003/ElevateX_LoginSignup_app)
 - ...
